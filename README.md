@@ -1,9 +1,8 @@
 # Image colorization
 
 ### 소개 
-- 이미지를 컬러 이미지로 복원
-- CNN을 이용 
-- CNN 구조를 직접 짜보고 colorization을 구현
+- 흑백 이미지를 컬러 이미지로 복원
+- CNN
 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/48191917/102323948-81dfcd80-3fc4-11eb-83ee-07067a160044.png">
 
